@@ -1,0 +1,14 @@
+Subject1,Topic1,Last Assessment,Days Since Last Studied,Times Studied,Subject2,Topic2,LA2,DSLS2,TS,Subject3,Topic3,LA3,DSLS3,TS,SubjA,TA
+H2 Physics,Work Energy Power,S,14,1,H2 Mathematics,Functions,U,Never/ALT,0,H1 Economics,Market Failure,A,13,2,H2 Mathematics,Functions
+H2 Physics,Measurement,B,57,3,H2 Mathematics,Vectors,U,4,2,H2 Physics,Forces,A,21,4,H2 Mathematics,Vectors
+H2 Physics,Kinematics,C,29,3,H2 Mathematics,Inequalities,A,9,5,H2 Physics,Dynamics,S,43,1,H2 Physics,Dynamics
+H2 Physics,Motion in a circle,B,2,1,H1 Economics,Central Economic Problem,B,54,4,H1 Economics,Price Mechanisms and its applications,S,13,2,H1 Economics,Price Mechanisms and its applications
+H2 Physics,Dynamics,S,43,1,H2 Mathematics,Functions,U,Never/ALT,0,H2 Mathematics,Vectors,U,4,2,H2 Mathematics,Functions
+H2 Physics,Forces,A,21,4,H1 Economics,Market Failure,A,13,2,H2 Mathematics,Inequalities,A,9,5,H1 Economics,Market Failure
+H2 Mathematics,Functions,U,Never/ALT,0,H2 Mathematics,Graphs and Transformations,B,48,3,H2 Physics,Dynamics,S,43,1,H2 Mathematics,Functions
+H2 Mathematics,Vectors,U,4,2,H1 Economics,Central Economic Problem,B,54,4,H2 Mathematics,Inequalities,A,9,5,H2 Mathematics,Vectors
+H2 Mathematics,Graphs and Transformations,B,48,3,H2 Physics,Motion in a circle,B,2,1,H2 Physics,Dynamics,S,43,1,H2 Physics,Dynamics
+H2 Mathematics,Inequalities,A,9,5,H2 Mathematics,Graphs and Transformations,B,48,3,H1 Economics,Central Economic Problem,B,54,4,H2 Mathematics,Graphs and Transformations
+H1 Economics,Central Economic Problem,B,54,4,H2 Physics,Motion in a circle,B,2,1,H2 Physics,Measurement,B,57,3,H2 Physics,Measurement
+H1 Economics,Price Mechanisms and its applications,S,13,2,H2 Mathematics,Vectors,U,4,2,H1 Economics,Market Failure,A,13,2,H2 Mathematics,Vectors
+H1 Economics,Market Failure,A,13,2,H2 Physics,Forces,A,21,4,H2 Physics,Kinematics,C,29,3,H2 Physics,Kinematics
