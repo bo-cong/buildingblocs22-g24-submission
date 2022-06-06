@@ -5,7 +5,7 @@ from about import show_about_page
 page = st.sidebar.selectbox("Tab",('About','Timer','Which topic should I study?',))
 if page=='Timer':
     show_timer_page()
-elif page=='which topic should I study?':
+elif page=='Which topic should I study?':
     show_predict_page()
 else:
     show_about_page()
